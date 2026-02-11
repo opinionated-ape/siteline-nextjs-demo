@@ -20,7 +20,7 @@ const posts = [
   {
     slug: 'product-analytics-mistakes',
     title: '5 product analytics mistakes that slow teams down',
-    excerpt: 'Most teams track too much, analyze too little. Here's what actually moves the needle.',
+    excerpt: 'Most teams track too much, analyze too little. Here\'s what actually moves the needle.',
     author: 'Marcus Reid',
     date: 'Jan 22, 2025',
     readTime: '5 min',
